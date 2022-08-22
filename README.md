@@ -7,7 +7,7 @@
 ## 🔥 Project Link
 
 
-<li><a href="https://joaovporto.github.io/jogo-da-velha/">Pokedex</li>
+<li><a href="https://joaovporto.github.io/jogo-da-velha/">jogo da velha</li>
 
 ## 🛠️ Technologies
 
